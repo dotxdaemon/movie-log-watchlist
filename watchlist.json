@@ -1,0 +1,221 @@
+{
+  "schemaVersion": 1,
+  "exportedAt": "2026-08-20T02:02:49Z",
+  "source": {
+    "application": "Movie Log",
+    "collection": "library",
+    "filter": "currently-indexed"
+  },
+  "itemCount": 33,
+  "excludedFields": [
+    "file paths",
+    "watched-folder details",
+    "internal IDs",
+    "viewing history",
+    "ratings",
+    "reviews",
+    "notes",
+    "tags",
+    "location data"
+  ],
+  "items": [
+    {
+      "title": "A Most Violent Year",
+      "year": 2014,
+      "type": "film",
+      "episode": null
+    },
+    {
+      "title": "BlackBerry",
+      "year": 2023,
+      "type": "film",
+      "episode": null
+    },
+    {
+      "title": "Blow Out",
+      "year": 1981,
+      "type": "film",
+      "episode": null
+    },
+    {
+      "title": "Doctor Strange",
+      "year": 2016,
+      "type": "film",
+      "episode": null
+    },
+    {
+      "title": "Don Jon",
+      "year": 2013,
+      "type": "film",
+      "episode": null
+    },
+    {
+      "title": "Evil Dead Burn",
+      "year": 2026,
+      "type": "film",
+      "episode": null
+    },
+    {
+      "title": "Feels Like Home",
+      "year": 2025,
+      "type": "film",
+      "episode": null
+    },
+    {
+      "title": "Headhunters (Hodejegerne)",
+      "year": 2011,
+      "type": "film",
+      "episode": null
+    },
+    {
+      "title": "Knock at the Cabin",
+      "year": 2023,
+      "type": "film",
+      "episode": null
+    },
+    {
+      "title": "Look Back",
+      "year": 2024,
+      "type": "film",
+      "episode": null
+    },
+    {
+      "title": "Mai-chan's Daily Life: The Movie",
+      "year": 2014,
+      "type": "film",
+      "episode": null
+    },
+    {
+      "title": "Maximum Pleasure Guaranteed",
+      "year": 2026,
+      "type": "series",
+      "episode": "S01E01"
+    },
+    {
+      "title": "Maximum Pleasure Guaranteed",
+      "year": 2026,
+      "type": "series",
+      "episode": "S01E02"
+    },
+    {
+      "title": "Maximum Pleasure Guaranteed",
+      "year": 2026,
+      "type": "series",
+      "episode": "S01E03"
+    },
+    {
+      "title": "Millennium Mambo",
+      "year": 2001,
+      "type": "film",
+      "episode": null
+    },
+    {
+      "title": "Million Dollar Baby",
+      "year": 2004,
+      "type": "film",
+      "episode": null
+    },
+    {
+      "title": "Modern Whore",
+      "year": 2025,
+      "type": "film",
+      "episode": null
+    },
+    {
+      "title": "Obvious Child",
+      "year": 2014,
+      "type": "film",
+      "episode": null
+    },
+    {
+      "title": "Over Your Dead Body",
+      "year": 2026,
+      "type": "film",
+      "episode": null
+    },
+    {
+      "title": "S01E04 - Lucky You",
+      "year": null,
+      "type": "series",
+      "episode": "S01E04"
+    },
+    {
+      "title": "S01E05 - All Eyez on Me",
+      "year": null,
+      "type": "series",
+      "episode": "S01E05"
+    },
+    {
+      "title": "S01E06 - Girl on Fire",
+      "year": null,
+      "type": "series",
+      "episode": "S01E06"
+    },
+    {
+      "title": "The Boys",
+      "year": 2019,
+      "type": "series",
+      "episode": "S04E01"
+    },
+    {
+      "title": "The Boys",
+      "year": 2019,
+      "type": "series",
+      "episode": "S04E02"
+    },
+    {
+      "title": "The Boys",
+      "year": 2019,
+      "type": "series",
+      "episode": "S04E03"
+    },
+    {
+      "title": "The Love Witch",
+      "year": 2016,
+      "type": "film",
+      "episode": null
+    },
+    {
+      "title": "The Nightingale",
+      "year": 2018,
+      "type": "film",
+      "episode": null
+    },
+    {
+      "title": "The One I Love",
+      "year": 2014,
+      "type": "film",
+      "episode": null
+    },
+    {
+      "title": "Thor: Ragnarok",
+      "year": 2017,
+      "type": "film",
+      "episode": null
+    },
+    {
+      "title": "To Leslie",
+      "year": 2022,
+      "type": "film",
+      "episode": null
+    },
+    {
+      "title": "To Your Eternity",
+      "year": 2021,
+      "type": "series",
+      "episode": "S01E01"
+    },
+    {
+      "title": "To Your Eternity",
+      "year": 2021,
+      "type": "series",
+      "episode": "S01E02"
+    },
+    {
+      "title": "To Your Eternity",
+      "year": 2021,
+      "type": "series",
+      "episode": "S01E03"
+    }
+  ]
+}
