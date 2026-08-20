@@ -1,17 +1,23 @@
 {
-  "schemaVersion": 1,
-  "exportedAt": "2026-08-20T02:02:49Z",
+  "schemaVersion": 2,
+  "exportedAt": "2026-08-20T02:24:57Z",
   "source": {
     "application": "Movie Log",
     "collection": "library",
-    "filter": "currently-indexed"
+    "filter": "all"
   },
-  "itemCount": 33,
+  "summary": {
+    "itemCount": 108,
+    "films": 79,
+    "seriesEpisodes": 29,
+    "currentlyIndexed": 33,
+    "watchedOnly": 75
+  },
   "excludedFields": [
     "file paths",
     "watched-folder details",
     "internal IDs",
-    "viewing history",
+    "exact viewing dates",
     "ratings",
     "reviews",
     "notes",
@@ -20,202 +26,760 @@
   ],
   "items": [
     {
+      "title": "A Knight of the Seven Kingdoms",
+      "year": 2026,
+      "type": "series",
+      "episode": "S01E01",
+      "currentlyIndexed": false
+    },
+    {
+      "title": "A Knight of the Seven Kingdoms",
+      "year": 2026,
+      "type": "series",
+      "episode": "S01E02",
+      "currentlyIndexed": false
+    },
+    {
+      "title": "A Knight of the Seven Kingdoms",
+      "year": 2026,
+      "type": "series",
+      "episode": "S01E03",
+      "currentlyIndexed": false
+    },
+    {
       "title": "A Most Violent Year",
       "year": 2014,
       "type": "film",
-      "episode": null
+      "episode": null,
+      "currentlyIndexed": true
+    },
+    {
+      "title": "Alien³",
+      "year": 1992,
+      "type": "film",
+      "episode": null,
+      "currentlyIndexed": false
+    },
+    {
+      "title": "Amélie",
+      "year": 2001,
+      "type": "film",
+      "episode": null,
+      "currentlyIndexed": false
+    },
+    {
+      "title": "American Hustle",
+      "year": 2013,
+      "type": "film",
+      "episode": null,
+      "currentlyIndexed": false
+    },
+    {
+      "title": "Batman Begins",
+      "year": 2005,
+      "type": "film",
+      "episode": null,
+      "currentlyIndexed": false
+    },
+    {
+      "title": "Being John Malkovich",
+      "year": 1999,
+      "type": "film",
+      "episode": null,
+      "currentlyIndexed": false
     },
     {
       "title": "BlackBerry",
       "year": 2023,
       "type": "film",
-      "episode": null
+      "episode": null,
+      "currentlyIndexed": true
     },
     {
       "title": "Blow Out",
       "year": 1981,
       "type": "film",
-      "episode": null
+      "episode": null,
+      "currentlyIndexed": true
+    },
+    {
+      "title": "Bridesmaids",
+      "year": 2011,
+      "type": "film",
+      "episode": null,
+      "currentlyIndexed": false
+    },
+    {
+      "title": "City of God",
+      "year": 2002,
+      "type": "film",
+      "episode": null,
+      "currentlyIndexed": false
+    },
+    {
+      "title": "Cloud Atlas",
+      "year": 2012,
+      "type": "film",
+      "episode": null,
+      "currentlyIndexed": false
+    },
+    {
+      "title": "Cube",
+      "year": 1997,
+      "type": "film",
+      "episode": null,
+      "currentlyIndexed": false
+    },
+    {
+      "title": "Dead Talents Society",
+      "year": 2024,
+      "type": "film",
+      "episode": null,
+      "currentlyIndexed": false
+    },
+    {
+      "title": "Death Proof",
+      "year": 2007,
+      "type": "film",
+      "episode": null,
+      "currentlyIndexed": false
     },
     {
       "title": "Doctor Strange",
       "year": 2016,
       "type": "film",
-      "episode": null
+      "episode": null,
+      "currentlyIndexed": true
     },
     {
       "title": "Don Jon",
       "year": 2013,
       "type": "film",
-      "episode": null
+      "episode": null,
+      "currentlyIndexed": true
+    },
+    {
+      "title": "Dungeons & Dragons: Honor Among Thieves",
+      "year": 2023,
+      "type": "film",
+      "episode": null,
+      "currentlyIndexed": false
+    },
+    {
+      "title": "Dying for Sex",
+      "year": 2025,
+      "type": "series",
+      "episode": "S01E01",
+      "currentlyIndexed": false
+    },
+    {
+      "title": "Eden",
+      "year": 2024,
+      "type": "film",
+      "episode": null,
+      "currentlyIndexed": false
+    },
+    {
+      "title": "Eileen",
+      "year": 2023,
+      "type": "film",
+      "episode": null,
+      "currentlyIndexed": false
+    },
+    {
+      "title": "Euphoria",
+      "year": 2019,
+      "type": "series",
+      "episode": "S03E05",
+      "currentlyIndexed": false
+    },
+    {
+      "title": "Euphoria",
+      "year": 2019,
+      "type": "series",
+      "episode": "S03E06",
+      "currentlyIndexed": false
+    },
+    {
+      "title": "Euphoria",
+      "year": 2019,
+      "type": "series",
+      "episode": "S03E07",
+      "currentlyIndexed": false
     },
     {
       "title": "Evil Dead Burn",
       "year": 2026,
       "type": "film",
-      "episode": null
+      "episode": null,
+      "currentlyIndexed": true
+    },
+    {
+      "title": "Faces of Death",
+      "year": 2026,
+      "type": "film",
+      "episode": null,
+      "currentlyIndexed": false
+    },
+    {
+      "title": "Fantasy Life",
+      "year": 2025,
+      "type": "film",
+      "episode": null,
+      "currentlyIndexed": false
     },
     {
       "title": "Feels Like Home",
       "year": 2025,
       "type": "film",
-      "episode": null
+      "episode": null,
+      "currentlyIndexed": true
+    },
+    {
+      "title": "First Man",
+      "year": 2018,
+      "type": "film",
+      "episode": null,
+      "currentlyIndexed": false
+    },
+    {
+      "title": "Following",
+      "year": 1998,
+      "type": "film",
+      "episode": null,
+      "currentlyIndexed": false
+    },
+    {
+      "title": "Fresh",
+      "year": 2022,
+      "type": "film",
+      "episode": null,
+      "currentlyIndexed": false
+    },
+    {
+      "title": "Game Night",
+      "year": 2018,
+      "type": "film",
+      "episode": null,
+      "currentlyIndexed": false
+    },
+    {
+      "title": "Hamnet",
+      "year": 2025,
+      "type": "film",
+      "episode": null,
+      "currentlyIndexed": false
     },
     {
       "title": "Headhunters (Hodejegerne)",
       "year": 2011,
       "type": "film",
-      "episode": null
+      "episode": null,
+      "currentlyIndexed": true
+    },
+    {
+      "title": "Hellboy",
+      "year": 2004,
+      "type": "film",
+      "episode": null,
+      "currentlyIndexed": false
+    },
+    {
+      "title": "Hl25",
+      "year": null,
+      "type": "film",
+      "episode": null,
+      "currentlyIndexed": false
+    },
+    {
+      "title": "How to Make a Killing",
+      "year": 2026,
+      "type": "film",
+      "episode": null,
+      "currentlyIndexed": false
+    },
+    {
+      "title": "I Love Boosters",
+      "year": 2026,
+      "type": "film",
+      "episode": null,
+      "currentlyIndexed": false
+    },
+    {
+      "title": "Inception",
+      "year": 2010,
+      "type": "film",
+      "episode": null,
+      "currentlyIndexed": false
+    },
+    {
+      "title": "Insomnia",
+      "year": 2002,
+      "type": "film",
+      "episode": null,
+      "currentlyIndexed": false
+    },
+    {
+      "title": "Interstellar",
+      "year": 2014,
+      "type": "film",
+      "episode": null,
+      "currentlyIndexed": false
+    },
+    {
+      "title": "Jojo Rabbit",
+      "year": 2019,
+      "type": "film",
+      "episode": null,
+      "currentlyIndexed": false
+    },
+    {
+      "title": "Jujutsu Kaisen",
+      "year": 2020,
+      "type": "series",
+      "episode": "S03E11",
+      "currentlyIndexed": false
     },
     {
       "title": "Knock at the Cabin",
       "year": 2023,
       "type": "film",
-      "episode": null
+      "episode": null,
+      "currentlyIndexed": true
     },
     {
       "title": "Look Back",
       "year": 2024,
       "type": "film",
-      "episode": null
+      "episode": null,
+      "currentlyIndexed": true
+    },
+    {
+      "title": "Luce",
+      "year": 2019,
+      "type": "film",
+      "episode": null,
+      "currentlyIndexed": false
     },
     {
       "title": "Mai-chan's Daily Life: The Movie",
       "year": 2014,
       "type": "film",
-      "episode": null
+      "episode": null,
+      "currentlyIndexed": true
+    },
+    {
+      "title": "Malcolm in the Middle: Life's Still Unfair",
+      "year": 2026,
+      "type": "series",
+      "episode": "S01E01",
+      "currentlyIndexed": false
+    },
+    {
+      "title": "Malignant",
+      "year": 2021,
+      "type": "film",
+      "episode": null,
+      "currentlyIndexed": false
     },
     {
       "title": "Maximum Pleasure Guaranteed",
       "year": 2026,
       "type": "series",
-      "episode": "S01E01"
+      "episode": "S01E01",
+      "currentlyIndexed": true
     },
     {
       "title": "Maximum Pleasure Guaranteed",
       "year": 2026,
       "type": "series",
-      "episode": "S01E02"
+      "episode": "S01E02",
+      "currentlyIndexed": true
     },
     {
       "title": "Maximum Pleasure Guaranteed",
       "year": 2026,
       "type": "series",
-      "episode": "S01E03"
+      "episode": "S01E03",
+      "currentlyIndexed": true
+    },
+    {
+      "title": "Memento",
+      "year": 2000,
+      "type": "film",
+      "episode": null,
+      "currentlyIndexed": false
     },
     {
       "title": "Millennium Mambo",
       "year": 2001,
       "type": "film",
-      "episode": null
+      "episode": null,
+      "currentlyIndexed": true
     },
     {
       "title": "Million Dollar Baby",
       "year": 2004,
       "type": "film",
-      "episode": null
+      "episode": null,
+      "currentlyIndexed": true
     },
     {
       "title": "Modern Whore",
       "year": 2025,
       "type": "film",
-      "episode": null
+      "episode": null,
+      "currentlyIndexed": true
+    },
+    {
+      "title": "Mother Mary",
+      "year": 2026,
+      "type": "film",
+      "episode": null,
+      "currentlyIndexed": false
+    },
+    {
+      "title": "Normal",
+      "year": 2025,
+      "type": "film",
+      "episode": null,
+      "currentlyIndexed": false
     },
     {
       "title": "Obvious Child",
       "year": 2014,
       "type": "film",
-      "episode": null
+      "episode": null,
+      "currentlyIndexed": true
     },
     {
       "title": "Over Your Dead Body",
       "year": 2026,
       "type": "film",
-      "episode": null
+      "episode": null,
+      "currentlyIndexed": true
+    },
+    {
+      "title": "Pillion",
+      "year": 2025,
+      "type": "film",
+      "episode": null,
+      "currentlyIndexed": false
+    },
+    {
+      "title": "Ponies",
+      "year": 2026,
+      "type": "series",
+      "episode": "S01E01",
+      "currentlyIndexed": false
+    },
+    {
+      "title": "Ponies",
+      "year": 2026,
+      "type": "series",
+      "episode": "S01E02",
+      "currentlyIndexed": false
+    },
+    {
+      "title": "Roms26",
+      "year": null,
+      "type": "film",
+      "episode": null,
+      "currentlyIndexed": false
+    },
+    {
+      "title": "Rooster",
+      "year": 2026,
+      "type": "series",
+      "episode": "S01E01",
+      "currentlyIndexed": false
     },
     {
       "title": "S01E04 - Lucky You",
       "year": null,
       "type": "series",
-      "episode": "S01E04"
+      "episode": "S01E04",
+      "currentlyIndexed": true
     },
     {
       "title": "S01E05 - All Eyez on Me",
       "year": null,
       "type": "series",
-      "episode": "S01E05"
+      "episode": "S01E05",
+      "currentlyIndexed": true
     },
     {
       "title": "S01E06 - Girl on Fire",
       "year": null,
       "type": "series",
-      "episode": "S01E06"
+      "episode": "S01E06",
+      "currentlyIndexed": true
+    },
+    {
+      "title": "Sirat",
+      "year": 2025,
+      "type": "film",
+      "episode": null,
+      "currentlyIndexed": false
+    },
+    {
+      "title": "Song Sung Blue",
+      "year": 2025,
+      "type": "film",
+      "episode": null,
+      "currentlyIndexed": false
+    },
+    {
+      "title": "Star Wars: Visions",
+      "year": 2021,
+      "type": "series",
+      "episode": "S01E03",
+      "currentlyIndexed": false
+    },
+    {
+      "title": "Star Wars: Visions",
+      "year": 2021,
+      "type": "series",
+      "episode": "S01E07",
+      "currentlyIndexed": false
+    },
+    {
+      "title": "Star Wars: Visions",
+      "year": 2021,
+      "type": "series",
+      "episode": "S03E07",
+      "currentlyIndexed": false
+    },
+    {
+      "title": "Tenet",
+      "year": 2020,
+      "type": "film",
+      "episode": null,
+      "currentlyIndexed": false
+    },
+    {
+      "title": "The AI Doc: Or How I Became an Apocaloptimist",
+      "year": 2026,
+      "type": "film",
+      "episode": null,
+      "currentlyIndexed": false
     },
     {
       "title": "The Boys",
       "year": 2019,
       "type": "series",
-      "episode": "S04E01"
+      "episode": "S04E01",
+      "currentlyIndexed": true
     },
     {
       "title": "The Boys",
       "year": 2019,
       "type": "series",
-      "episode": "S04E02"
+      "episode": "S04E02",
+      "currentlyIndexed": true
     },
     {
       "title": "The Boys",
       "year": 2019,
       "type": "series",
-      "episode": "S04E03"
+      "episode": "S04E03",
+      "currentlyIndexed": true
+    },
+    {
+      "title": "The Coffee Table",
+      "year": 2022,
+      "type": "film",
+      "episode": null,
+      "currentlyIndexed": false
+    },
+    {
+      "title": "The Killer",
+      "year": 2023,
+      "type": "film",
+      "episode": null,
+      "currentlyIndexed": false
+    },
+    {
+      "title": "The Long Walk",
+      "year": 2025,
+      "type": "film",
+      "episode": null,
+      "currentlyIndexed": false
     },
     {
       "title": "The Love Witch",
       "year": 2016,
       "type": "film",
-      "episode": null
+      "episode": null,
+      "currentlyIndexed": true
+    },
+    {
+      "title": "The Making of 'Kill Bill'",
+      "year": 2003,
+      "type": "film",
+      "episode": null,
+      "currentlyIndexed": false
     },
     {
       "title": "The Nightingale",
       "year": 2018,
       "type": "film",
-      "episode": null
+      "episode": null,
+      "currentlyIndexed": true
+    },
+    {
+      "title": "The Notebook",
+      "year": 2004,
+      "type": "film",
+      "episode": null,
+      "currentlyIndexed": false
     },
     {
       "title": "The One I Love",
       "year": 2014,
       "type": "film",
-      "episode": null
+      "episode": null,
+      "currentlyIndexed": true
+    },
+    {
+      "title": "The Plague",
+      "year": 2025,
+      "type": "film",
+      "episode": null,
+      "currentlyIndexed": false
+    },
+    {
+      "title": "The Ring",
+      "year": 2002,
+      "type": "film",
+      "episode": null,
+      "currentlyIndexed": false
+    },
+    {
+      "title": "The Summer Hikaru Died",
+      "year": 2025,
+      "type": "series",
+      "episode": "S01E01",
+      "currentlyIndexed": false
+    },
+    {
+      "title": "The Summer Hikaru Died",
+      "year": 2025,
+      "type": "series",
+      "episode": "S01E02",
+      "currentlyIndexed": false
+    },
+    {
+      "title": "The Testament of Ann Lee",
+      "year": 2025,
+      "type": "film",
+      "episode": null,
+      "currentlyIndexed": false
+    },
+    {
+      "title": "The Wedding Banquet",
+      "year": 2025,
+      "type": "film",
+      "episode": null,
+      "currentlyIndexed": false
+    },
+    {
+      "title": "The Wild Robot",
+      "year": 2024,
+      "type": "film",
+      "episode": null,
+      "currentlyIndexed": false
+    },
+    {
+      "title": "There Will Be Blood",
+      "year": 2007,
+      "type": "film",
+      "episode": null,
+      "currentlyIndexed": false
     },
     {
       "title": "Thor: Ragnarok",
       "year": 2017,
       "type": "film",
-      "episode": null
+      "episode": null,
+      "currentlyIndexed": true
+    },
+    {
+      "title": "Three Billboards Outside Ebbing, Missouri",
+      "year": 2017,
+      "type": "film",
+      "episode": null,
+      "currentlyIndexed": false
+    },
+    {
+      "title": "Thunderbolts*",
+      "year": 2025,
+      "type": "film",
+      "episode": null,
+      "currentlyIndexed": false
     },
     {
       "title": "To Leslie",
       "year": 2022,
       "type": "film",
-      "episode": null
+      "episode": null,
+      "currentlyIndexed": true
     },
     {
       "title": "To Your Eternity",
       "year": 2021,
       "type": "series",
-      "episode": "S01E01"
+      "episode": "S01E01",
+      "currentlyIndexed": true
     },
     {
       "title": "To Your Eternity",
       "year": 2021,
       "type": "series",
-      "episode": "S01E02"
+      "episode": "S01E02",
+      "currentlyIndexed": true
     },
     {
       "title": "To Your Eternity",
       "year": 2021,
       "type": "series",
-      "episode": "S01E03"
+      "episode": "S01E03",
+      "currentlyIndexed": true
+    },
+    {
+      "title": "Totally Killer",
+      "year": 2023,
+      "type": "film",
+      "episode": null,
+      "currentlyIndexed": false
+    },
+    {
+      "title": "Trap",
+      "year": 2024,
+      "type": "film",
+      "episode": null,
+      "currentlyIndexed": false
+    },
+    {
+      "title": "Tuner",
+      "year": 2025,
+      "type": "film",
+      "episode": null,
+      "currentlyIndexed": false
+    },
+    {
+      "title": "Urchin",
+      "year": 2025,
+      "type": "film",
+      "episode": null,
+      "currentlyIndexed": false
+    },
+    {
+      "title": "Vox Lux",
+      "year": 2018,
+      "type": "film",
+      "episode": null,
+      "currentlyIndexed": false
     }
   ]
 }
